@@ -240,7 +240,7 @@ public class Main {
     }
 }
 
-//10. Using array, convert the uppercase to lowercase and vise versa
+//10. Using array, convert the uppercase to lowercase and vice versa
 
 import java.util.*;
 class Main {
